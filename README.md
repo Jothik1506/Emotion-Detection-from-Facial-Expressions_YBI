@@ -1,4 +1,4 @@
-# Emotion Detection from Facial Expressions
+# YBI_INTERNSHIP_PROJECT2
 
 # Emotion Detection from Facial Expressions 😊
 
