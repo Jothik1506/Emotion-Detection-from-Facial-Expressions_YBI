@@ -57,22 +57,14 @@ The model will predict the emotion in real time.
 Press q to quit the webcam window.
 
 
-
-
 ---
 
 ### ✅ Next Steps
 
 1. Copy this content into your `README.md` file.
 2. Commit and push to GitHub.
-
-
-
-
 requirements are
 opencv-python
 tensorflow
 keras
 numpy
-
-
